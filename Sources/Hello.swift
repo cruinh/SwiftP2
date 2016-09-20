@@ -1,5 +1,5 @@
 public extension String {
-  var hello : String {
+  public var hello : String {
     get {
       return "hello"
     }
